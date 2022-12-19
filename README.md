@@ -2,4 +2,4 @@
 
 This was my NLP project at the university and it is about doing Sentiment Analysis on Tripadvisor Hotel Reviews. The dataset was taken from <a href= "https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews">Kaggle </a> and consists of two columns and 20491 rows.
 
-First, we assigned new categorical labels for the reviews: positive, negative , neutral. After that, we balanced the data and cleaned it (remove html and urls, remove non-ascii charachters, remove emojis, remove punctuation ... etc) and did the text preprocessing steps.
+In the Report pdf, we explain our project and everything we did and we present the results. The code is written in the Jupyter Notebook file.
